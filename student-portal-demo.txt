@@ -1,0 +1,7 @@
+name=Lavanya dommeti
+college name=Aditya degree college for women, Kakinada
+course name=Bsc-cs-2
+suc code=2347390229
+roll no=77
+email=adityakkd@gmail.com
+address=kakinada
